@@ -19,6 +19,7 @@ Automated stock price monitoring and email notification script written in Python
 ├── run_alerts.sh
 ├── stock_alerts.py
 └── README.md
+```
 
 ## Installation
 1. Clone the repository:
