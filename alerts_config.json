@@ -1,0 +1,22 @@
+{
+  "alerts": [
+    {
+      "ticker": "NVDA",
+      "condition": "lte",
+      "target": 150.0,
+      "reset_pct": 5.0
+    },
+    {
+      "ticker": "GOOGL",
+      "condition": "lte",
+      "target": 160.0,
+      "reset_pct": 5.0
+    },
+    {
+      "ticker": "AMD",
+      "condition": "lte",
+      "target": 190.0,
+      "reset_pct": 5.0
+    }
+  ]
+}
