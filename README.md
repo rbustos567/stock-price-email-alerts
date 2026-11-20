@@ -14,7 +14,6 @@ Automated stock price monitoring and email notification script written in Python
 ```text
 .
 ├── env.example
-├── .gitignore
 ├── alerts_config.json
 ├── run_alerts.sh
 ├── stock_alerts.py
